@@ -1,0 +1,15 @@
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\bin\Debug\net8.0\Bigon.Domain.deps.json
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\bin\Debug\net8.0\Bigon.Domain.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\bin\Debug\net8.0\Bigon.Domain.pdb
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\bin\Debug\net8.0\Bigon.Infrastructure.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\bin\Debug\net8.0\Bigon.Infrastructure.pdb
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.csproj.CopyComplete
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\refint\Bigon.Domain.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\Bigon.Domain.pdb
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Domain\obj\Debug\net8.0\ref\Bigon.Domain.dll

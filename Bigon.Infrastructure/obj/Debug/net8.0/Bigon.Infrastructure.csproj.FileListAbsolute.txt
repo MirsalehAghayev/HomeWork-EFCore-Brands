@@ -1,0 +1,12 @@
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\bin\Debug\net8.0\Bigon.Infrastructure.deps.json
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\bin\Debug\net8.0\Bigon.Infrastructure.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\bin\Debug\net8.0\Bigon.Infrastructure.pdb
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\refint\Bigon.Infrastructure.dll
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\Bigon.Infrastructure.pdb
+C:\Users\LEGION\Desktop\bigon (lahiye)\Bigon.Infrastructure\obj\Debug\net8.0\ref\Bigon.Infrastructure.dll
